@@ -1,8 +1,11 @@
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 ## About Laravel
+`Create model:`
+<span>php artisan make:model NAME -m</span>
 
-<p>php artisan make:model Category -m</p>
+`Create controller:`
+<span>php artisan make:controller Api/NAME</span>
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
 
